@@ -1,6 +1,3 @@
-"use strict";
-
-
 let resultHuman = 0
 let resultComputer = 0
 const humanRes = document.querySelector('.human-result')
